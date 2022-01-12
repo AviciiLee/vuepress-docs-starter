@@ -1,7 +1,7 @@
 const { path } = require('@vuepress/utils')
 
 module.exports = {
-  title: 'fe-docs',
+  title: 'vuepress-docs-starter',
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
     navbar: [

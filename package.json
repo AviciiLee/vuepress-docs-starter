@@ -1,5 +1,5 @@
 {
-  "name": "fe-docs",
+  "name": "vuepress-docs-starter",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/AviciiLee/fe-docs.git",
